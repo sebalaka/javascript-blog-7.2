@@ -307,7 +307,7 @@ function addClickListenersToAuthors(event) {
     correctTag.classList.add('active');
   }
 
-  generateTitleLinks('[data-author~="' + tag + '"]');
+  generateTitleLinks('[data-author="' + tag + '"]');
 }
 
 function authorClickHandler() {
