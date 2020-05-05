@@ -115,5 +115,26 @@ body {
 /*tags*/
 .tag-size-1 {
   color: red;
+  font-size: 20px;
+}
+
+.tag-size-2 {
+  color: green;
+  font-size: 25px;
+}
+
+.tag-size-3 {
+  color: teal;
+  font-size: 30px;
+}
+
+.tag-size-4 {
+  color: yellow;
+  font-size: 35px;
+}
+
+.tag-size-5 {
+  color: blue;
+  font-size: 40px;
 }
 /*# sourceMappingURL=style.css.map */
